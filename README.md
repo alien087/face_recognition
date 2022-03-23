@@ -24,6 +24,8 @@ python encoding.py
 ```bash
 python main.py
 ```
+# Note
+Untuk menjalankan program ini kamu memerlukan beberapa prerequisite, diantaranya harus sudah menginstall compiler c/c++ dan juga ms. visual studio dan cmake.
 
 # Reference
 * https://pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
