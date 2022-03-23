@@ -1,5 +1,4 @@
 ###### Requirements ######
 face-recognition
 imutils
-pickle
 opencv-python
